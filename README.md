@@ -3,6 +3,5 @@ A simple python script to parse conversations.json and churn out prompt stats
 
 script output:
 
-Number of different prompts: xxx
-Total number of words sent: xxxx
-Total number of characters sent: xxxx
+User - Total prompts: xx, Total words: xxxx, Total characters: xxxxxx
+Assistant - Total prompts: xx, Total words: xxxx, Total characters: xxxxxx
