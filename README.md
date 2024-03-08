@@ -1,5 +1,5 @@
 # chatgptstats
-A simple python script to parse conversations.json and churn out prompt stats<br>
+A simple python script to parse conversations.json (from ChatGPT) and churn out prompt stats<br>
 <br>
 Just download your data from openai and put conversations.json in the same folder as calc.py then run "python calc.py"
 <br><br>
